@@ -11,8 +11,12 @@ If many branches touch the same parts of a module (or component), *prebase* the 
 
 ## Background
 
-Use the force, push often. If your history is filling up, like this
+Use the force, and push often.
 
-<img src="use-the-force-push.png" />
+Is your history is filling up, like this
 
-and it's taking up a lot of time? There's an app for that! Or... will be, if this projects gets built...
+<img src="use-the-force--push.png" width="400" />
+
+and it's taking up a lot of your time?
+
+There's an app for that! Or... will be, if this projects gets built...
