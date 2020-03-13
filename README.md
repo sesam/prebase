@@ -13,7 +13,7 @@ If many branches touch the same parts of a module (or component), *prebase* the 
 
 Is your history is filling up, like this
 
-<img src="use-the-force--push.png" width="400" />
+<img src="use-the-force--push.png" width="540" />
 
 and it's taking up a lot of your time?
 
