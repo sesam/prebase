@@ -1,6 +1,6 @@
 # pRebase
 
-![alt text](prebase-anti-code-age.jpg "Prebase anti code age")
+![alt text](instant-code-anti-age.jpg "Prebase instant code anti-age")
 
 
 If many branches touch the same parts of a module (or component), *prebase* the code to *pro*actively extract and abstract around that part of the code.
