@@ -1,6 +1,6 @@
 # pRebase
 
-![alt text](instant-code-anti-age.jpg "Prebase instant code anti-age")
+<img alt="Prebase instant code anti-age" src="instant-code-anti-age.jpg" width="280" />
 
 
 If many branches touch the same parts of a module (or component), *prebase* the code to *pro*actively extract and abstract around that part of the code.
